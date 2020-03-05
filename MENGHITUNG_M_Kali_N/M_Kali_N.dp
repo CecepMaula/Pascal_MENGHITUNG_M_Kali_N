@@ -1,0 +1,12 @@
+[Project]
+FileName=E:\DataMahasiswa\MuhammadFarhaan_IF4\M_Kali_N\M_Kali_N.dp
+Name=M_Kali_N
+MainUnit=E:\DataMahasiswa\MuhammadFarhaan_IF4\M_Kali_N\Mengalikan_M_dengan_N.pas
+UnitCount=1
+ResFiles=E:\DataMahasiswa\MuhammadFarhaan_IF4\M_Kali_N\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=E:\DataMahasiswa\MuhammadFarhaan_IF4\M_Kali_N\Mengalikan_M_dengan_N.pas
+FileTime=1263629071
